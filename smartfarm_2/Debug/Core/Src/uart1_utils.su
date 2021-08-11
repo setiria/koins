@@ -1,0 +1,4 @@
+uart1_utils.c:13:6:uartutils_init	16	static
+uart1_utils.c:20:6:uartutils_push	16	static
+uart1_utils.c:31:9:uartutils_pop	24	static
+uart1_utils.c:44:9:uartutils_isEmpty	16	static

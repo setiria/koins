@@ -1,0 +1,11 @@
+parse_temp2can.c:29:6:loop_parse	16	static
+parse_temp2can.c:62:6:Parse_2CAN_UART	88	static
+parse_temp2can.c:114:6:Parse2CAN_ResDeviceInfo	104	static
+parse_temp2can.c:129:6:Parse2CAN_ResReadStatus	104	static
+parse_temp2can.c:156:6:Parse2CAN_ResSensorValue	136	static
+parse_temp2can.c:215:5:_M_str2u32	32	static
+parse_temp2can.c:224:4:_M_str2u8	32	static
+parse_temp2can.c:234:5:_M_str2u16	32	static
+parse_temp2can.c:243:5:_ReadFlashData	24	static
+parse_temp2can.c:250:6:_flash_read	16	static
+parse_temp2can.c:283:6:_flash_write	96	static

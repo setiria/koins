@@ -1,0 +1,4 @@
+mainapp.c:21:6:setup	8	static
+mainapp.c:38:6:loop	8	static
+mainapp.c:44:6:HAL_UART_RxCpltCallback	16	static
+mainapp.c:62:6:uart_send_string	24	static
